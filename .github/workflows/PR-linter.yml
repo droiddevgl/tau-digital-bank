@@ -1,4 +1,4 @@
-name: PR check naming convention
+name: PR check naming convention 2
 
 on:
   pull_request:
